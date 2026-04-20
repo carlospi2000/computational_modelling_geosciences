@@ -1,0 +1,11 @@
+
+
+TITLE Acuífero detrítico
+SOLUTION 1
+pH 8.22
+Na 48.5; K 1.06; Mg 5.51; Ca 1.07;
+Cl 56.6; Alkalinity 0.24; S(6) 2.93
+EXCHANGE 1
+CaX2   0.03   #Ca intercambiable
+END
+
